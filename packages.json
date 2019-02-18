@@ -510,6 +510,17 @@
     "repo": "https://github.com/purescript/purescript-exists.git",
     "version": "v4.0.0"
   },
+  "express": {
+    "dependencies": [
+      "foreign",
+      "foreign-generic",
+      "node-http",
+      "test-unit",
+      "aff"
+    ],
+    "repo": "https://github.com/purescript/purescript-express.git",
+    "version": "v0.7.1"
+  },
   "filterable": {
     "dependencies": [
       "arrays",
