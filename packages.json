@@ -518,7 +518,7 @@
       "test-unit",
       "aff"
     ],
-    "repo": "https://github.com/purescript/purescript-express.git",
+    "repo": "https://github.com/nkly/purescript-express.git",
     "version": "v0.7.1"
   },
   "filterable": {
